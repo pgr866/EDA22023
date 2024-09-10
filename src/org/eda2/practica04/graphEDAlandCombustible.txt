@@ -1,0 +1,65 @@
+0
+21
+Almeria
+Granada
+Cadiz
+Huelva
+Sevilla
+Jaen
+Murcia
+Caceres
+Badajoz
+Albacete
+Valencia
+Madrid
+Barcelona
+Gerona
+Lerida
+Zaragoza
+Bilbao
+Oviedo
+Valladolid
+Vigo
+Corunya
+41
+Almeria Granada 16.58
+Almeria Murcia 12.19
+Granada Murcia 22.06
+Granada Jaen 5.57
+Granada Sevilla 18.94
+Cadiz Sevilla 7.64
+Huelva Sevilla 5.01
+Huelva Badajoz 12.29
+Sevilla Jaen 19.05
+Jaen Madrid 29.51
+Murcia Albacete 10.62
+Murcia Valencia 14.61
+Caceres Badajoz 7.49
+Badajoz Madrid 21.47
+Albacete Valencia 16.29
+Albacete Madrid 20.09
+Valencia Barcelona 26.22
+Madrid Zaragoza 23.6
+Madrid Bilbao 38.81
+Madrid Valladolid 15.59
+Barcelona Zaragoza 23.69
+Barcelona Gerona 8.26
+Gerona Lerida 20.16
+Zaragoza Bilbao 25.32
+Bilbao Valladolid 14.36
+Bilbao Oviedo 16.91
+Valladolid Vigo 19.89
+Valladolid Corunya 34.97
+Vigo Corunya 14.75
+Oviedo Corunya 25.6
+Oviedo Valladolid 16.41
+Bilbao Lerida 40.75
+Lerida Barcelona 12.42
+Zaragoza Valencia 21.12
+Jaen Murcia 28.35
+Jaen Badajoz 23.65
+Huelva Cadiz 5.54
+Cadiz Granada 28.32
+Caceres Valladolid 16.46
+Caceres Madrid 22.95
+Madrid Valencia 19.37

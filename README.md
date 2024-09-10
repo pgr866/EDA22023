@@ -1,1 +1,2 @@
-# EDA22023
+Jesús Fornieles Muñoz
+Pablo Gómez Rivas
